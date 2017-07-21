@@ -1,7 +1,7 @@
 ## Welcome
  Welcome to Age of Nations, an Open-Source 4X turn-based strategy game. As the creator, I was inspired by games like Civilization, Age of Empires, and Rise of Nations. I came up with the title by combining Rise of Nations and Age of Empires to get the name Age of Nations. Although, the gameplay is much like that of Civilization.
 
-[Download Game](aon_setup.exe)
+[Download Game](http://nkstudiosco.github.io/Age-of-Nations/aon_setup.exe)
 
 ## Scenario Packs
 
@@ -9,12 +9,12 @@
  
 [New World](http://nkstudiosco.github.io/Age-of-Nations/new_world.exe)
 
-[Hundred Years War](hundred.exe)
+[Hundred Years War](http://nkstudiosco.github.io/Age-of-Nations/hundred.exe)
 
-[Siberian Winter](siberian.exe)
+[Siberian Winter](http://nkstudiosco.github.io/Age-of-Nations/siberian.exe)
 
-[Information Age](information.exe)
+[Information Age](http://nkstudiosco.github.io/Age-of-Nations/information.exe)
 
-[Goldilox Planet](goldilox.exe)
+[Goldilox Planet](http://nkstudiosco.github.io/Age-of-Nations/goldilox.exe)
 
-[Waterworld](waterworld.exe)
+[Waterworld](http://nkstudiosco.github.io/Age-of-Nations/waterworld.exe)
