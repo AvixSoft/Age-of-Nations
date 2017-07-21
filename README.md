@@ -7,7 +7,7 @@
 
  Install the scenarios to the root folder that Age of Nations has been installed into.
  
-[New World](new_world.exe)
+[New World](http://nkstudiosco.github.io/Age-of-Nations/new_world.exe)
 
 [Hundred Years War](hundred.exe)
 
