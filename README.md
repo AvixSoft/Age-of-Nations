@@ -19,4 +19,4 @@
 
 [Waterworld](http://nkstudiosco.github.io/Age-of-Nations/waterworld.exe)
 
-<a target='_blank' href='http://nkstudiosco.github.io/Age-of-Nations/'><img src="http://lo-th.github.io/3d.city/img/preview01.jpg"/></a><br>
+<a target='_blank' href='http://nkstudiosco.github.io/Age-of-Nations/aon_setup.exe'><img src="http://nkstudiosco.github.io/Age-of-Nations/aon.png"/></a><br>
