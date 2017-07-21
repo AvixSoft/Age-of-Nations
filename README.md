@@ -5,7 +5,7 @@
 
 ## Scenario Packs
 
- Install the scenarios to the root folder that Age of Nations has been installed into.
+ Scenarios are diffrent types of looks and ways to play Age of Nations. They provide a longer playtime to experience the feeling of the game. My personal favorites are the New World Scenario and the Information Age Scenario. Install the scenarios to the root folder that Age of Nations has been installed into.
  
 [New World](http://nkstudiosco.github.io/Age-of-Nations/new_world.exe)
 
